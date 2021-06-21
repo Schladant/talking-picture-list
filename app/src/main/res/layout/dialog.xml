@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/DialogLayout">
+    <ImageView
+        android:id="@+id/dialog_image"
+        style="@style/DialogImageView">
+    </ImageView>
+    <Button
+        android:id="@+id/dialog_dismiss"
+        style="@style/MyButton.Dismiss">
+    </Button>
+</LinearLayout>
